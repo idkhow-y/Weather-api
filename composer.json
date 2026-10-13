@@ -1,0 +1,19 @@
+{
+    "name": "student/weather-api",
+    "description": "Weather API",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Student\\WeatherApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrii"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^8.2"
+    }
+}

@@ -1,0 +1,6 @@
+/vendor/
+/client/.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
